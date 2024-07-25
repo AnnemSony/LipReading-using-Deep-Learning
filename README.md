@@ -30,7 +30,4 @@ Lip reading, also known as speech reading, involves understanding spoken words b
 - OpenCV
 - Other dependencies as listed in `requirements.txt`
 
-## Installation
-1. Clone the repository:
-   ```bash
 
