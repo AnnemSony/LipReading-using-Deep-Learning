@@ -28,6 +28,6 @@ Lip reading, also known as speech reading, involves understanding spoken words b
 - TensorFlow 2.x
 - NumPy
 - OpenCV
-- Other dependencies as listed in `requirements.txt`
+
 
 
