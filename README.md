@@ -11,9 +11,6 @@ This project uses deep learning techniques to understand and transcribe sentence
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 Lip reading, also known as speech reading, involves understanding spoken words by visually interpreting the movements of the lips, face, and tongue. This project aims to provide a deep learning solution for lip reading, enabling the transcription of silent videos into text.
