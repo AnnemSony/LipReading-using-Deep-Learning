@@ -27,4 +27,3 @@ Lip reading, also known as speech reading, involves understanding spoken words b
 - OpenCV
 
 
-
